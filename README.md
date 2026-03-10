@@ -32,7 +32,7 @@ The full whitepaper (PDF) contains:
 - Implementation roadmap and parameter calibration  
 
 > If you want the full PDF version, you can get it here:  
-> **[https://moinrimboos.gumroad.com/l/iqukxt]**
+> **https://moinrimboos.gumroad.com/l/iqukxt**
 
 
 This repository is meant as a reference and starting point for developers, researchers and DAO practitioners interested in post-capitalist organizational design.
